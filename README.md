@@ -1,8 +1,11 @@
 # Relations in Civil Law: A Category Theory Perspective
 
 **Author:** Wanhong Huang
+
 **Status:** Ongoing research project (under development)
+
 **OSF Project Page:** [https://osf.io/dgaef](https://osf.io/dgaef)
+
 **DOI:** [https://doi.org/10.17605/OSF.IO/DGAEF](https://doi.org/10.17605/OSF.IO/DGAEF)
 
 
